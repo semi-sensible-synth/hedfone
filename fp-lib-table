@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Eurorack")(type "KiCad")(uri "${KIPRJMOD}/footprints/Eurorack.pretty")(options "")(descr ""))
+  (lib (name "Mousebites")(type "KiCad")(uri "${KIPRJMOD}/footprints/Panelization.pretty")(options "")(descr ""))
+)
