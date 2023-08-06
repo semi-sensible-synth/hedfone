@@ -57,9 +57,6 @@
         }
       ],
       "drc_exclusions": [
-        "courtyards_overlap|10029999|11297401|c1c7d6e2-3323-4107-8f68-d8193d0a5536|df923ba6-7d0a-4190-825d-d3699b43e689",
-        "courtyards_overlap|10029999|25643001|cbda3650-02c4-4eb4-9c96-8285b8b702e5|c1c7d6e2-3323-4107-8f68-d8193d0a5536",
-        "courtyards_overlap|10029999|37327001|cbda3650-02c4-4eb4-9c96-8285b8b702e5|fbed80b1-027c-4537-a82c-ef76985a210a",
         "silk_over_copper|-13004800|25265600|59db2b12-ce10-4882-91dc-94988ee17a89|594c4528-91ca-4c25-a4ca-31cb41a84e9c",
         "silk_over_copper|-13004800|51326000|59db2b12-ce10-4882-91dc-94988ee17a89|2966170b-b7c8-47ba-b996-48ea706d2d7f",
         "silk_over_copper|-13021600|-439200|59db2b12-ce10-4882-91dc-94988ee17a89|86514c6b-75aa-4126-b43e-dae18960b54a",
@@ -69,17 +66,7 @@
         "silk_over_copper|-8026400|10989744|dd28c4fb-c83b-4cec-a30c-66ab8b111354|738c73ca-416f-4cdc-b135-180d4d696484",
         "silk_over_copper|-8026400|9935400|163cdeae-7841-4f2c-b738-e36b081d5e19|dd28c4fb-c83b-4cec-a30c-66ab8b111354",
         "silk_over_copper|-8030000|35960000|3f43b8cc-e232-4de4-a8bc-56a1a1c0a87a|cc023c8a-63d6-4080-a172-6e49d6627fb3",
-        "silk_over_copper|-8030000|36948544|cc023c8a-63d6-4080-a172-6e49d6627fb3|77da69f1-4a7e-4daf-b100-27fb75871e8c",
-        "silk_over_copper|3790987|5629600|e419300a-5404-42ba-8c9b-e8cd5066ac8e|8dee2a5b-27b7-4a12-9aa6-2fe81170f83c",
-        "silk_over_copper|4526621|3524459|e419300a-5404-42ba-8c9b-e8cd5066ac8e|a062c900-8c86-4bcf-abc4-58aeafa0e650",
-        "silk_over_copper|5036702|3483092|b71ea2fc-03b3-4a1a-950e-5a040f1be797|a062c900-8c86-4bcf-abc4-58aeafa0e650",
-        "silk_over_copper|5561303|4655558|e9581bdc-0c32-481f-b3ec-f590264a37c8|a062c900-8c86-4bcf-abc4-58aeafa0e650",
-        "silk_over_copper|6760973|4054250|b71ea2fc-03b3-4a1a-950e-5a040f1be797|d6320d3a-f203-4632-aba1-a548902544dc",
-        "silk_overlap|4610000|11697400|3daf6f12-d213-4e81-a9a5-93f9e8f3ad1d|c0c3e2b6-4759-48ec-95b1-882d85817a23",
-        "silk_overlap|4610000|37693000|1ecc4860-a257-4cbb-a274-41c88f779d0f|dc2e4d69-ab4d-4864-999d-7aa340dd63c7",
-        "silk_overlap|4610000|37727000|dc2e4d69-ab4d-4864-999d-7aa340dd63c7|1ecc4860-a257-4cbb-a274-41c88f779d0f",
-        "silk_overlap|5450000|14077400|dee2dbd6-72f4-4536-896a-814726059ee8|5ed637ac-40ac-434c-a406-609e25d3658d",
-        "silk_overlap|5450000|40073000|58495835-b706-4276-8a7a-0530cb102f30|fe0a8ab1-7b25-4d9a-9a3b-f8c5e10b289a"
+        "silk_over_copper|-8030000|36948544|cc023c8a-63d6-4080-a172-6e49d6627fb3|77da69f1-4a7e-4daf-b100-27fb75871e8c"
       ],
       "meta": {
         "version": 2
@@ -456,7 +443,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "headphone_sum.kicad_pro",
+    "filename": "headphone_sum_FRONT.kicad_pro",
     "version": 1
   },
   "net_settings": {

@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,7.0.6*%
+%TF.CreationDate,2023-08-06T19:51:51+10:00*%
+%TF.ProjectId,headphone_sum_FRONT,68656164-7068-46f6-9e65-5f73756d5f46,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 7.0.6) date 2023-08-06 19:51:51*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10C,3.200000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,M3 Screw*%
+X-10481600Y-6250000D03*
+%TD*%
+%TO.C,M3 screw*%
+X-10481600Y116250000D03*
+%TD*%
+M02*
