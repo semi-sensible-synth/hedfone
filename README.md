@@ -21,6 +21,10 @@ For the headphone output, I used design similar to [this headphone amplifier](ht
 
 The 3.5mm TRS stereo jack can be a [green Thonkiconn PJ366ST](https://www.thonk.co.uk/shop/green-stereo-thonkiconn-jacks-pj366st-x1/) or a [Tayda A-6115](https://www.taydaelectronics.com/3-5mm-stereo-enclosed-socket.html) bodged with a resistor wire.
 
+## Version 1.1.1
+
+Fix footprint for D1,D2 (SOD-523 -> SOD-323)
+
 ## Version 1.1
 
 Made the second set of inputs 'soft' panned left and right by ~6dB.
