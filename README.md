@@ -21,6 +21,12 @@ For the headphone output, I used design similar to [this headphone amplifier](ht
 
 The 3.5mm TRS stereo jack can be a [green Thonkiconn PJ366ST](https://www.thonk.co.uk/shop/green-stereo-thonkiconn-jacks-pj366st-x1/) or a [Tayda A-6115](https://www.taydaelectronics.com/3-5mm-stereo-enclosed-socket.html) bodged with a resistor wire.
 
+## Version 1.1.2 - TODO
+_(fixes for next revision)_
+
+- Pot direction is reversed.
+- Outer L/R pair are hard panned, inner pair are soft panned. This wasn't intentional, but actually makes sense (more like Nearness) - swap inner pair order and front panel to reflect that (so we have top to bottom L/L/R/R with the outer jacks hard panned)
+
 ## Version 1.1.1
 
 Fix footprint for D1,D2 (SOD-523 -> SOD-323)
