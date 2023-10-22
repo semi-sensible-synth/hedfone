@@ -42,4 +42,4 @@ Initial release to production.
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), Andrew Perry, 2023.
+[CERN-OHL-S-2.0](https://ohwr.org/cern_ohl_s_v2.txt) (*CERN Open Hardware License Version 2 - Strongly Reciprocal*), Andrew Perry, 2023.
